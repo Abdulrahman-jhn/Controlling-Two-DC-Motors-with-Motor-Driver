@@ -14,7 +14,7 @@ if it was low/high it will run backward
 
 -if both are high or low the motor will not run
 
-- the signal pins from the out put to the arduino is the pins that you want to but high or low on it
+-the signal pins from the out put to the arduino is the pins that you want to but high or low on it
 
 -circuit diagrams are included for the project
 
